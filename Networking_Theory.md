@@ -18,3 +18,5 @@ Mô hình OSI bao gồm 7 lớp:
    * MAC: Media Access Control: Lớp con MAC quản lý sự tương tác của thiết bị, chịu trách nhiệm đánh địa chỉ các khung và cũng kiểm soát quyền truy cập phương tiện vật lý. Lớp liên kết dữ liệu nhận thông tin dưới dạng các gói từ lớp Mạng, nó chia các gói thành các khung và gửi các khung đó từng bit đến lớp vật lý bên dưới.
 * `Physical`(Tầng vật lý): Lớp vật lý nằm ngay dưới phần cứng của máy tính. Đây là nơi các xung điện tạo nên việc truyền dữ liệu qua mạng được gửi và nhận. Công việc của lớp vật lý là chuyển đổi dữ liệu nhị phân của quá trình truyền thành tín hiệu và truyền chúng qua mạng, cũng như nhận tín hiệu đến và chuyển đổi chúng trở lại thành dữ liệu nhị phân.
 
+* 
+
