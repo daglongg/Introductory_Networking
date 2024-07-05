@@ -4,4 +4,6 @@ Dưới đây là những kiến thức mình tổng hợp trong quá trình h�
 
 Mong rằng cũng sẽ giúp đỡ các bạn trong quá trình học về `Network`.
 
-`https://tryhackme.com/module/intro-to-networking` và `https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=1`
+`https://tryhackme.com/module/intro-to-networking` 
+
+`https://www.youtube.com/watch?v=bj-Yfakjllc&list=PLIFyRwBY_4bRLmKfP1KnZA6rZbRHtxmXi&index=1`
